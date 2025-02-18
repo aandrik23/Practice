@@ -6,6 +6,7 @@ func RetainFirstHalf(str string) string {
 	if length == 0 {
 		return ""
 	}
+
 	if length == 1 {
 		return str
 	}
